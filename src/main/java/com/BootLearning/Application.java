@@ -19,6 +19,8 @@ public class Application {
 	
 	public static void main(String[] args) {
 		logger.info("Application executed...");
+		logger.info("Krishna's application test *****");
+		
 		SpringApplication.run(Application.class, args);
 	}
 
