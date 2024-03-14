@@ -15,6 +15,7 @@ class ApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Inside test case...");
+		logger.info("Krishna's application test *****");
 		assertEquals(true, true);
 	}
 
