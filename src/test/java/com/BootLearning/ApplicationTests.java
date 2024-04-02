@@ -18,5 +18,4 @@ class ApplicationTests {
 		logger.info("Krishna's application test *****\n Test again ");
 		assertEquals(true, true);
 	}
-
 }
